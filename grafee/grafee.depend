@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1738859288 source:c:\users\piragenth\documents\github\self-study\grafee\main.c
+1738990553 source:c:\users\piragenth\documents\github\self-study\grafee\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 
